@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Ui_VM">
+  <grid id="27dc6" binding="Panel" layout-manager="GridLayoutManager" row-count="10" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1807" height="1594"/>
+    </constraints>
+    <properties>
+      <background color="-14342102"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="b08f2" class="javax.swing.JButton" binding="buttonBeli">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="Buy"/>
+        </properties>
+      </component>
+      <component id="6232b" class="javax.swing.JTextPane" binding="textQueue">
+        <constraints>
+          <grid row="0" column="3" row-span="8" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+          <foreground color="-1"/>
+          <text value="List kosong"/>
+        </properties>
+      </component>
+      <component id="3427" class="javax.swing.JButton" binding="button7">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="7"/>
+        </properties>
+      </component>
+      <component id="98deb" class="javax.swing.JButton" binding="buttonKurang">
+        <constraints>
+          <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="Remove last menu"/>
+        </properties>
+      </component>
+      <component id="25af3" class="javax.swing.JButton" binding="button8">
+        <constraints>
+          <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="8"/>
+        </properties>
+      </component>
+      <component id="a5e98" class="javax.swing.JButton" binding="button9">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="9"/>
+        </properties>
+      </component>
+      <component id="8c677" class="javax.swing.JButton" binding="button1">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <hideActionText value="false"/>
+          <text value="1"/>
+        </properties>
+      </component>
+      <component id="ae897" class="javax.swing.JButton" binding="button2">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="2"/>
+        </properties>
+      </component>
+      <component id="4ab9" class="javax.swing.JButton" binding="button3">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="3"/>
+        </properties>
+      </component>
+      <component id="f28d2" class="javax.swing.JButton" binding="button4">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="4"/>
+        </properties>
+      </component>
+      <component id="416ab" class="javax.swing.JButton" binding="button5">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="5"/>
+        </properties>
+      </component>
+      <component id="16d42" class="javax.swing.JButton" binding="button6">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1234631"/>
+          <foreground color="-1"/>
+          <text value="6"/>
+        </properties>
+      </component>
+      <component id="8b037" class="javax.swing.JLabel" binding="label1">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="1" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1"/>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Le-Minerale-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="66457" class="javax.swing.JLabel" binding="label2">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1"/>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Sprite-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="bcc16" class="javax.swing.JLabel" binding="label3">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1"/>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/bear-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="22185" class="javax.swing.JLabel" binding="label4">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Kopiko-Latte-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="9713c" class="javax.swing.JLabel" binding="label5">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Greentea-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="6864e" class="javax.swing.JLabel" binding="label6">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/PucukHarum-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="dc408" class="javax.swing.JLabel" binding="label7">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Pocari-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="16ecb" class="javax.swing.JLabel" binding="label8">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/floridina-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="e8798" class="javax.swing.JLabel" binding="label9">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <icon value="VM_Produk/Susu-UHT-p.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a7e9f" class="javax.swing.JLabel" binding="harga1">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 2000"/>
+        </properties>
+      </component>
+      <component id="78d23" class="javax.swing.JLabel" binding="harga2">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 4500"/>
+        </properties>
+      </component>
+      <component id="5eff1" class="javax.swing.JLabel" binding="harga3">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 9000"/>
+        </properties>
+      </component>
+      <component id="41050" class="javax.swing.JLabel" binding="harga4">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp 7500"/>
+        </properties>
+      </component>
+      <component id="fd28" class="javax.swing.JLabel" binding="harga5">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 5000"/>
+        </properties>
+      </component>
+      <component id="98b85" class="javax.swing.JLabel" binding="harga6">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 2500"/>
+        </properties>
+      </component>
+      <component id="46a87" class="javax.swing.JLabel" binding="harga7">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 6000"/>
+        </properties>
+      </component>
+      <component id="4696d" class="javax.swing.JLabel" binding="harga8">
+        <constraints>
+          <grid row="7" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 5500"/>
+        </properties>
+      </component>
+      <component id="acd46" class="javax.swing.JLabel" binding="harga9">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-1"/>
+          <text value="Rp. 6500"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
